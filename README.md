@@ -23,7 +23,7 @@ Insight_Visions Gallery is a modern, responsive photo gallery website that showc
 - ⌨️ **Keyboard Navigation** - Full keyboard support for accessibility
 - 📱 **Mobile-First Approach** - Touch-friendly interface for mobile devices
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 - **HTML5** - Semantic markup and modern web standards
 - **CSS3** - Advanced styling with Flexbox, Grid, and custom animations
